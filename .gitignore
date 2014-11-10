@@ -1,3 +1,4 @@
 node_modules/
 test-data/css/app.css
 platforms/
+npm-debug.log
